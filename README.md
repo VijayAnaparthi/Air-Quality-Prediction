@@ -18,3 +18,8 @@ In this process i also did hyper parameter tuning by using Randomsearchcv then t
 1. Mean squared error(MSE)
 2. Mean absolute percentage error(MAPE)
 3. R2 score
+##Conclusion
+
+I found out XGboost regressor is less overfitting compare to remaning two models. But Random forest regressor giving the best results in terms of error.
+
+So in above airquality_output.csv file i added 3 more columns add appended predicted values of every model for each datapoint.
