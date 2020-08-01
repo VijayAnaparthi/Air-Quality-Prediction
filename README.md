@@ -23,4 +23,4 @@ In this process i also did hyper parameter tuning by using Randomsearchcv then t
 
 1. I found out XGboost regressor is less overfitting compare to remaning two models. But Random forest regressor giving the best results in terms of error.
 
-2. So in above Airpi_output.csv file i added 3 more columns add appended predicted values of every model for each datapoint.
+2. So in above Airpi_output.csv file i added 3 more columns and appended predicted values of every model for each datapoint.
