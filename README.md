@@ -9,5 +9,12 @@ Basically i am not did any exploratory data analysis on this dataset. If you are
 It is a regreesion problem so i trained 3 models i.e
 
 1. Linear regression
-2. Random forest regressor
+2. Random forest regressor 
 3. XGboost regressor
+
+In this process i also did hyper parameter tuning by using Randomsearchcv then trained the model again.
+## Performance metrices
+
+1. Mean squared error(MSE)
+2. Mean absolute percentage error(MAPE)
+3. R2 score
